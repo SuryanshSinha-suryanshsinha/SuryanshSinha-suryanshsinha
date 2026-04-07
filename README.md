@@ -30,10 +30,15 @@ A 92M parameter biomedical language model built entirely in PyTorch.
 Key components:
 
 -Custom BPE tokenizer
+
 -Decoder-only transformer (LLaMA-style)
+
 -RoPE (Rotary Positional Embeddings)
+
 -GQA (Grouped Query Attention)
+
 -SwiGLU activations + RMSNorm
+
 -LoRA fine-tuning on MedQA
 
 ---
@@ -42,8 +47,9 @@ Key components:
 
 I document everything — architecture decisions, failures, and learnings.
 
--X: https://x.com/sspub2
--Email: suryanshsinha.dev@gmail.com
+X: https://x.com/sspub2
+
+Email: suryanshsinha.dev@gmail.com
 
 ---
 
