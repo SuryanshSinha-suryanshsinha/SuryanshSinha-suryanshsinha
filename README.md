@@ -1,46 +1,45 @@
-## Hi there 👋 I'm Suryansh
+# Suryansh Sinha
 
-Building AI systems from scratch — not using abstractions, but understanding them.
+**I learn by building — not tutorials, not wrapper libraries, but the actual thing from scratch.**
 
-I focus on LLMs, deep learning systems, and internals — implementing everything from tokenizers to transformers to training pipelines.
+I'd rather spend a month implementing a transformer from raw PyTorch than skim through ten courses. I'm into neural networks, language models, and understanding what's happening under the hood — from tokenization to attention to deployment. I share everything publicly: the code, the training logs, the bugs, and the lessons.
 
-🛠️ What I’m Doing Right Now
+[![X](https://img.shields.io/badge/@sspub2-000000?style=flat&logo=x&logoColor=white)](https://x.com/sspub2)
+[![GitHub](https://img.shields.io/badge/SuryanshSinha--suryanshsinha-181717?style=flat&logo=github&logoColor=white)](https://github.com/SuryanshSinha-suryanshsinha)
+[![Email](https://img.shields.io/badge/suryanshsinha.dev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:suryanshsinha.dev@gmail.com)
 
-Building LLMs from scratch (tokenizer → transformer → training loop)
-Developing a code similarity detection system (RAG-based)
-Working on a biomedical Small Language Model (92M params)
+---
 
-Featured Project
+## What I Work With
 
-🧬 medical-slm-from-scratch
+| | |
+|---|---|
+| **Languages** | Python · C |
+| **Deep Learning** | PyTorch · TensorFlow · Keras |
+| **NLP & LLMs** | HuggingFace Transformers · LangChain · LangGraph · ChromaDB |
+| **Web & APIs** | FastAPI · Streamlit |
 
-A 92M parameter biomedical language model built entirely in PyTorch.
+---
 
-Key components:
+## Featured Project
 
-Custom BPE tokenizer
-Decoder-only transformer (LLaMA-style)
-RoPE (Rotary Positional Embeddings)
-GQA (Grouped Query Attention)
-SwiGLU activations + RMSNorm
-LoRA fine-tuning on MedQA
+### [medical-slm-from-scratch](https://github.com/SuryanshSinha-suryanshsinha/medical-slm-from-scratch)
 
-⚙️ Tech Stack
+92M parameter biomedical language model, built entirely from scratch in PyTorch. 
 
-Languages: Python · C
-Deep Learning: PyTorch · TensorFlow · Keras
-LLMs/NLP: Transformers · LangChain · LangGraph · ChromaDB
-Backend: FastAPI · Streamlit
+**What's inside:** Custom BPE tokenizer · LLaMA-style decoder-only transformer · Rotary Positional Embeddings (RoPE) · Grouped Query Attention (GQA) · SwiGLU activations · RMSNorm · LoRA fine-tuning on MedQA
 
-🌐 Building in Public
+`PyTorch` `Transformers` `NLP` `From Scratch`
 
-I document everything — architecture decisions, failures, and learnings.
+---
 
-X: https://x.com/sspub2
-Email: suryanshsinha.dev@gmail.com
+## Building in Public
 
-🤝 Open To
+I post daily on **[X (@sspub2)](https://x.com/sspub2)** — architecture breakdowns, training runs, things that broke, and what I learned fixing them. Currently on a "LLMs from scratch" series documenting the entire process from tokenization onward.
 
--AI/ML internships
--Research collaborations
--Working on challenging ML systems
+---
+
+## Let's Connect
+
+Always open to connecting with people building in the AI/ML space.  
+Reach me on [X](https://x.com/sspub2) or at [suryanshsinha.dev@gmail.com](mailto:suryanshsinha.dev@gmail.com).
